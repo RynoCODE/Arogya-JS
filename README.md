@@ -1,1 +1,1 @@
-# Arogya-JS
+# Arogya Next JS project
